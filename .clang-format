@@ -22,6 +22,7 @@ BinPackArguments: false
 BinPackParameters: false
 BraceWrapping:
   AfterClass:      false
+  
   AfterControlStatement: false
   AfterEnum:       false
   AfterFunction:   false
